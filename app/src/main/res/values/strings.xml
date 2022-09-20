@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Phrases</string>
+    <string name="textview">TextView</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="connection_failed_image">connection failed image</string>
+    <string name="favorites">Favorites</string>
+    <string name="fav_detail_id">fav detail id</string>
+    <string name="fav_detail_title">fav detail title</string>
+</resources>
