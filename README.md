@@ -16,11 +16,14 @@
 ###### Fragments
 ## Algunas pantallas
 
-![1](https://user-images.githubusercontent.com/63832065/191616404-d56b1c94-5e0d-48b4-b48c-a2ec9ed61120.png)
+![1](https://user-images.githubusercontent.com/63832065/192115961-96d63a7a-6e69-4a1b-8295-582737c028f3.png)
 
-![2](https://user-images.githubusercontent.com/63832065/191616697-e64654d9-bfe8-42fd-9442-158019ba5c37.png)
+![2](https://user-images.githubusercontent.com/63832065/192115986-8bbe78ec-efee-492b-a1d6-63db263d1115.png)
 
-![3](https://user-images.githubusercontent.com/63832065/191617001-9342eedc-d3fa-4aef-bcbd-bebcb0ad73a0.png)
+![4](https://user-images.githubusercontent.com/63832065/192115994-8307da01-a170-4408-85cb-2e81e4027c53.png)
+
+
+
 
 
 
